@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    color:rgb(110, 252, 110);
+    background-color: rgb(32, 107, 3);
+    text-align: var(text-align);
+}
+ 
+body {
+    background-color: rgb(124, 253, 167);
+}
